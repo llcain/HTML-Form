@@ -7,29 +7,33 @@
     <title>HTML Form</title>
 </head>
 <body>
-   <form>
-        First Name: <input type="text"><br>
-        Last Name: <input type="text"><br>
-        Email: <input type="email" required><br>
-        Password: <input type="password" min="7"><br>
-        Birthday: <input type="date"><br>
-        Gender:<br>
-        <input type="radio" name="gender" value="Female">Female<br>
-        <input type="radio" name="gender" value="Male">Male<br>
-        <input type="submit" value="Register!">
-        <input type="reset">    
-   </form>
+   <div>
+        <form>
+            <span>First Name:</span> <input type="text" name="firstname"><br>
+            Last Name: <input type="text" name="lastname"><br>
+            Email: <input type="email" name="email" required><br>
+            Password: <input type="password" min="7"><br>
+            Birthday: <input type="date" name="birthday"><br>
+            Gender:<br>
+            <input type="radio" name="gender" value="Female">Female<br>
+            <input type="radio" name="gender" value="Male">Male<br>
+            <input type="submit" value="Register!">
+            <input type="reset">    
+        </form>
+   </div>
 
    <br>
 
-   <form>
-        <p>Please select your favorite Web languages:</p>
-        <input type="radio" name="fav_language" value="HTML">
-        <label for="html">HTML</label><br>
-        <input type="radio" name="fav_language" value="CSS">
-        <label for="css">CSS</label><br>
-        <input type="radio" name="fav_language" value="JavaScript">
-        <label for="javascript">JavaScipt</label>
-   </form>
+   <div>
+        <form>
+            <p>Please select your favorite Web languages:</p>
+            <input type="radio" name="fav_language" value="HTML">
+            <label for="html">HTML</label><br>
+            <input type="radio" name="fav_language" value="CSS">
+            <label for="css">CSS</label><br>
+            <input type="radio" name="fav_language" value="JavaScript">
+            <label for="javascript">JavaScipt</label>
+        </form>
+   </div>
 </body>
 </html>
