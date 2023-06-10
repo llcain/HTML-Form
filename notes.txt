@@ -1,2 +1,7 @@
 Google - w3c semantic elements - https://www.w3schools.com/html/html5_semantic_elements.asp
 https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/ - HTML practice
+Google - css tricks - https://css-tricks.com/almanac/
+Google - css critical render path
+Google - css minify - 
+https://darekkay.com/flexbox-cheatsheet/ - flexbox cheatsheet
+https://flexboxfroggy.com/ - flexbox froggy 
