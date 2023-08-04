@@ -6,4 +6,5 @@ Google - css minify -
 https://darekkay.com/flexbox-cheatsheet/ - flexbox cheatsheet
 https://flexboxfroggy.com/ - flexbox froggy 
 Google - section 80 percent css - https://css-tricks.com/almanac/properties/w/width/ -  https://stackoverflow.com/questions/4317924/how-can-i-make-a-div-80-the-size-of-the-page - 
-Google - https://www.w3schools.com/cssref/tryit.php?filename=trycss3_flex-basis - flex basis
+Google - https://www.w3schools.com/cssref/tryit.php?filename=trycss3_flex-basis - flex basis -
+Google - Flex-basis w3schools - 

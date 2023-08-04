@@ -25,10 +25,11 @@ p {
 
 .row {
     display: flex;
+    flex-direction: column;
 }
 
 .col {
     background-color: aqua;
     border: 2px solid black;
-    flex-basis: 40%;
+    flex-basis: 1;
 }
