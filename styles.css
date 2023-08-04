@@ -12,11 +12,23 @@ p {
     color: green;
 }
 
-div {
-    position: absolute;
-    height: 80%;
+.course {
+    margin: 0 auto;
+    
+    
     width: 80%;
-    top: 10%;
-    left: 10%;
+    padding: 50px;
+    
+    
     background-color: #FFCC00;
+}
+
+.row {
+    display: flex;
+}
+
+.col {
+    background-color: aqua;
+    border: 2px solid black;
+    flex-basis: 40%;
 }
