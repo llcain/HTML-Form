@@ -17,19 +17,27 @@ p {
     
     
     width: 80%;
-    padding: 50px;
-    
+    padding: 50px;   
     
     background-color: #FFCC00;
 }
 
 .row {
-    display: flex;
+    display: block;
+    /* display: inline-block; */
     flex-direction: column;
 }
 
 .col {
     background-color: aqua;
     border: 2px solid black;
-    flex-basis: 1;
+    width: 33%;
+}
+
+.london {
+    background-color: black;
+    display: flex;
+    width: 700px;
+    color: white;
+    padding: 20px;
 }
